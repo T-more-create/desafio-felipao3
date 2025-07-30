@@ -1,8 +1,7 @@
 ## Escrevendo as classes de um Jogo
 
-## Instruções para entrega
 
-### O que deve ser utilizado
+### O que foi utilizado
 
 - Variáveis  
 - Operadores  
