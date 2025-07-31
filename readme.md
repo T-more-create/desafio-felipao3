@@ -37,7 +37,7 @@ Além disso, a classe deve ter um método chamado `atacar` que atenda aos seguin
 
 ---
 
-## Saída esperada
+## Saída esperada:
 
 Ao final da execução do método `atacar`, deve ser exibida a mensagem:
 
